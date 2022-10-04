@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">I am a MERN developer and a competitive programmer.</h3>
+<h3 align="center">I am a MERN developer and a competitive programmer. I am student at NSUT Dwarka. I am a member of GDSC Society and I am creating xLance NSUT.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
